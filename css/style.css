@@ -1626,7 +1626,7 @@ input[type=radio] {
 }
 
 .live-match-item:hover {
-    background: #e50914;
+    background: black;
 }
 
 .live-match-item:hover h3,
